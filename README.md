@@ -41,7 +41,7 @@ flowchart LR
 | **v3 · Entrega segura** | GitOps con Argo CD, canary, escaneo y firma de imágenes | Desplegar seguido sin miedo |
 | **v4 · FinOps** | Costos por servicio, apagado automático, rendimiento | Gastar el crédito con criterio |
 
-El detalle está en el tablero del proyecto y en los issues agrupados por épica.
+El detalle está en el [tablero](https://github.com/users/Slylem0/projects/10) y en las [épicas](https://github.com/Slylem0/filtros-platform/issues?q=label%3A%C3%A9pica).
 
 ## Equipo
 
